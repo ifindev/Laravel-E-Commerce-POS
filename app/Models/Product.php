@@ -11,4 +11,12 @@ class Product extends Model
 
     protected $table = 'product';
     protected $guard = []; // untuk keamanan save data
+
+    protected $fillable = [
+        'name',
+        'image',
+        'description',
+        'qty',
+        'price',
+    ];
 }
