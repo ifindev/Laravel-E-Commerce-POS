@@ -6,4 +6,4 @@ This a simple project for E-Commerce POS built using Laravel 8, Laravel Livewire
 ## Running Locally
 To run this program locally, clone the github repo. Then on the project directory, run `php artisan serve` and then open `localhost:8000` on the browser. 
 
-(C) Muhammad Arifin
+&copy; Muhammad Arifin
